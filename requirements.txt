@@ -1,7 +1,5 @@
+streamlit
 pandas
 numpy
 matplotlib
-tensorflow
-keras
-yfinance
-streamlit
+tensorflow==2.11.0
